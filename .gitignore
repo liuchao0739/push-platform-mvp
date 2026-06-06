@@ -1,0 +1,26 @@
+# 数据库文件
+*.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Go
+server/push-platform
+
+# Flutter
+client/demo_app/build/
+client/demo_app/.dart_tool/
+client/demo_app/android/.gradle/
+client/demo_app/android/app/build/
+client/demo_app/ios/Pods/
+client/demo_app/ios/.symlinks/
+
+# 临时文件
+*.log
+tmp/
